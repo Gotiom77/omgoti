@@ -1,0 +1,2 @@
+# omgoti
+my new page
